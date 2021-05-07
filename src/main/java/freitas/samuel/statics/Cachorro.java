@@ -1,4 +1,4 @@
-package br.com.statics;
+package freitas.samuel.statics;
 
 public class Cachorro {
 
